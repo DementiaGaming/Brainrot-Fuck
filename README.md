@@ -61,5 +61,9 @@ python bfToBrf.py program.bf
 
 A `temp.brf` file will have been created in the same directory.
 
+# Bugs
+
+Sometimes the output from the `.brf` file will be some random symbols instead of the actual output. If this happens you can copy and paste the `temp.bf` file into an online Brainfuck interpreter to see your output instead.
+
 # Contributing
 Don't. Brainrot Fuck is the perfect language
