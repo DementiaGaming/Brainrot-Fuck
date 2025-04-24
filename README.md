@@ -1,7 +1,7 @@
 # Brainrot Fuck
 The perfect industry standard programming language.
 
-Brainrot Fuck is an extremely readable, portable and widely supported language used by only the most serious and skilled programmers.
+<a href="https://dementiagaming.github.io/Skibidi-Industries/brf/">Brainrot Fuck</a> is an extremely readable, portable and widely supported language used by only the most serious and skilled programmers.
 
 # Example Hello World Program
 ```
@@ -33,9 +33,9 @@ Hello, World!
 |[ |goon
 |] |edge
 
-# How to use
+# How to use Brainrot Fuck
 
-> Note: <br> You will have to have all your program files in the same directory as the python scripts in order to run them (or you can try adding the script directories to PATH and run them anywhere, but you can figure that out yourself)
+> Note: <br> You will have to have all your program files in the same directory as the python scripts in order to run them (or you can try adding the script directories to PATH and run them anywhere, but you'll have to figure that out yourself)
 
 `brf.py` is used to translate Brainrot Fuck (.brf) files into Brainfuck (.bf) files and execute them.
 
@@ -46,7 +46,7 @@ Run this command to run your Brainrot Fuck program:
 ```
 python brf.py program.brf
 ```
-> Note: <br> Program.brf is the file you are translating and can be any file (as long as it has the .brf extension)
+> Note: <br> `Program.brf` is the file you are translating and can be any file (as long as it has the .brf extension)
 
 After running this you should see your output in the terminal
 
@@ -57,13 +57,13 @@ To translate your programs made in the inferior Brainfuck language to the superi
 ```
 python bfToBrf.py program.bf
 ```
-> Note: <br> Again, program.bf is the file you are translating and can be any file (as long as it has the .bf extension)
+> Note: <br> Again, `program.bf` is the file you are translating and can be any file (as long as it has the .bf extension)
 
 A `temp.brf` file will have been created in the same directory.
 
 # Bugs
 
-Sometimes the output from the `.brf` file will be some random symbols instead of the actual output. If this happens you can copy and paste the `temp.bf` file into an online Brainfuck interpreter to see your output instead.
+Very rarely the output from the `.brf` file will be some random symbols instead of the actual output. If this happens you can copy and paste the `temp.bf` file into an online Brainfuck interpreter to see your output instead.
 
 # Contributing
 Don't. Brainrot Fuck is the perfect language
